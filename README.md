@@ -1,2 +1,2 @@
 # homework
-homework of leanring analytic
+homework of learning analytic
